@@ -1,0 +1,26 @@
+.custom-swiper-pagination {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  /* margin-top: 16px; */
+  left: 0;
+  bottom: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.custom-bullet {
+  width: 16px;
+  height: 8px;
+  background-color: #E0DCF8;
+  border-radius: 10px;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.custom-bullet-active {
+  width: 32px;
+  height: 8px;
+  background-color: #7E53D4;
+  transform: scale(1.2);
+}

@@ -1,0 +1,1458 @@
+[
+  {
+    "id": "1",
+    "title": "Men's Casual Shirt",
+    "price": 29.99,
+    "rating": 4.2,
+    "number_of_reviews": 85,
+    "new_arrival": true,
+    "big_deal": false,
+    "sex": "male",
+    "categories": [
+      "Clothing",
+      "Casual Wear",
+      "Shirts"
+    ],
+    "comments": [
+      {
+        "user": "user1",
+        "comment": "Fits well and great quality.",
+        "rating": 5,
+        "date": "2024-11-01"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": false
+      },
+      {
+        "size": "L",
+        "available": true
+      }
+    ],
+    "colors": [
+      {
+        "color": "Blue",
+        "available": true
+      },
+      {
+        "color": "White",
+        "available": false
+      }
+    ],
+    "total_availability": 3,
+    "description": "A stand-out oversized hoodie reconstructed from a soft cotton fleece jersey derived from previous collections. This avant-basic piece has an asymmetrical cut with a slash opening down the right front, over the shoulder and down the right back."
+  },
+  {
+    "id": "2",
+    "title": "Women's Running Shoes",
+    "price": 79.99,
+    "rating": 4.7,
+    "number_of_reviews": 210,
+    "new_arrival": true,
+    "big_deal": true,
+    "sex": "female",
+    "categories": [
+      "Clothing",
+      "Footwear",
+      "Running"
+    ],
+    "comments": [
+      {
+        "user": "user2",
+        "comment": "Very comfortable for running.",
+        "rating": 5,
+        "date": "2024-10-28"
+      },
+      {
+        "user": "user3",
+        "comment": "Sleek design and durable.",
+        "rating": 4,
+        "date": "2024-11-02"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "6",
+        "available": true
+      },
+      {
+        "size": "7",
+        "available": true
+      },
+      {
+        "size": "8",
+        "available": false
+      }
+    ],
+    "colors": [
+      {
+        "color": "Pink",
+        "available": true
+      },
+      {
+        "color": "Black",
+        "available": true
+      },
+      {
+        "color": "White",
+        "available": false
+      }
+    ],
+    "total_availability": 5,
+    "description": "A stand-out oversized hoodie reconstructed from a soft cotton fleece jersey derived from previous collections. This avant-basic piece has an asymmetrical cut with a slash opening down the right front, over the shoulder and down the right back."
+  },
+  {
+    "id": "3",
+    "title": "Unisex Hoodie",
+    "price": 49.99,
+    "rating": 4.5,
+    "number_of_reviews": 120,
+    "new_arrival": false,
+    "big_deal": false,
+    "sex": "unisex",
+    "categories": [
+      "Clothing",
+      "Winter Wear",
+      "Hoodies"
+    ],
+    "comments": [
+      {
+        "user": "user4",
+        "comment": "Warm and cozy.",
+        "rating": 5,
+        "date": "2024-11-11"
+      },
+      {
+        "user": "user5",
+        "comment": "Good fit but a bit expensive.",
+        "rating": 4,
+        "date": "2024-10-15"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "available": true
+      }
+    ],
+    "colors": [
+      {
+        "color": "Grey",
+        "available": true
+      },
+      {
+        "color": "Black",
+        "available": false
+      }
+    ],
+    "total_availability": 4,
+    "description": "A stand-out oversized hoodie reconstructed from a soft cotton fleece jersey derived from previous collections. This avant-basic piece has an asymmetrical cut with a slash opening down the right front, over the shoulder and down the right back."
+  },
+  {
+    "id": "4",
+    "title": "Leather Jacket",
+    "price": 129.99,
+    "rating": 4.8,
+    "number_of_reviews": 300,
+    "new_arrival": false,
+    "big_deal": true,
+    "sex": "male",
+    "categories": [
+      "Clothing",
+      "Winter Wear",
+      "Jackets"
+    ],
+    "comments": [
+      {
+        "user": "user6",
+        "comment": "Great value for the price.",
+        "rating": 5,
+        "date": "2024-11-10"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": false
+      }
+    ],
+    "colors": [
+      {
+        "color": "Black",
+        "available": true
+      },
+      {
+        "color": "Brown",
+        "available": true
+      }
+    ],
+    "total_availability": 3,
+    "description": "A stand-out oversized hoodie reconstructed from a soft cotton fleece jersey derived from previous collections. This avant-basic piece has an asymmetrical cut with a slash opening down the right front, over the shoulder and down the right back."
+  },
+  {
+    "id": "5",
+    "title": "Women's Maxi Dress",
+    "price": 79.99,
+    "rating": 4.7,
+    "number_of_reviews": 145,
+    "new_arrival": false,
+    "big_deal": false,
+    "sex": "female",
+    "categories": [
+      "Clothing",
+      "Dresses",
+      "Formal Wear"
+    ],
+    "comments": [
+      {
+        "user": "user7",
+        "comment": "Elegant and perfect for parties.",
+        "rating": 5,
+        "date": "2024-10-20"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": false
+      }
+    ],
+    "colors": [
+      {
+        "color": "Red",
+        "available": true
+      },
+      {
+        "color": "Blue",
+        "available": true
+      },
+      {
+        "color": "Black",
+        "available": false
+      }
+    ],
+    "total_availability": 5,
+    "description": "A stand-out oversized hoodie reconstructed from a soft cotton fleece jersey derived from previous collections. This avant-basic piece has an asymmetrical cut with a slash opening down the right front, over the shoulder and down the right back."
+  },
+  {
+    "id": "6",
+    "title": "Men's Slim Fit Jeans",
+    "price": 59.99,
+    "rating": 4.3,
+    "number_of_reviews": 95,
+    "new_arrival": true,
+    "big_deal": false,
+    "sex": "male",
+    "categories": [
+      "Clothing",
+      "Casual Wear",
+      "Jeans"
+    ],
+    "comments": [
+      {
+        "user": "user8",
+        "comment": "Good fit and comfortable.",
+        "rating": 5,
+        "date": "2024-11-14"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "30",
+        "available": true
+      },
+      {
+        "size": "32",
+        "available": false
+      },
+      {
+        "size": "34",
+        "available": true
+      }
+    ],
+    "colors": [
+      {
+        "color": "Blue",
+        "available": true
+      },
+      {
+        "color": "Black",
+        "available": false
+      }
+    ],
+    "total_availability": 3,
+    "description": "A stand-out oversized hoodie reconstructed from a soft cotton fleece jersey derived from previous collections. This avant-basic piece has an asymmetrical cut with a slash opening down the right front, over the shoulder and down the right back."
+  },
+  {
+    "id": "7",
+    "title": "Women's High-Waisted Leggings",
+    "price": 39.99,
+    "rating": 4.6,
+    "number_of_reviews": 180,
+    "new_arrival": true,
+    "big_deal": true,
+    "sex": "female",
+    "categories": [
+      "Clothing",
+      "Activewear",
+      "Leggings"
+    ],
+    "comments": [
+      {
+        "user": "user9",
+        "comment": "Stretchy and comfortable for yoga.",
+        "rating": 5,
+        "date": "2024-11-10"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": false
+      }
+    ],
+    "colors": [
+      {
+        "color": "Black",
+        "available": true
+      },
+      {
+        "color": "Grey",
+        "available": true
+      }
+    ],
+    "total_availability": 0,
+    "description": "A stand-out oversized hoodie reconstructed from a soft cotton fleece jersey derived from previous collections. This avant-basic piece has an asymmetrical cut with a slash opening down the right front, over the shoulder and down the right back."
+  },
+  {
+    "id": "8",
+    "title": "Men's Polo T-Shirt",
+    "price": 24.99,
+    "rating": 4.4,
+    "number_of_reviews": 110,
+    "new_arrival": false,
+    "big_deal": false,
+    "sex": "male",
+    "categories": [
+      "Clothing",
+      "Casual Wear",
+      "T-Shirts"
+    ],
+    "comments": [
+      {
+        "user": "user10",
+        "comment": "Soft fabric and great fit.",
+        "rating": 4,
+        "date": "2024-11-05"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      }
+    ],
+    "colors": [
+      {
+        "color": "White",
+        "available": true
+      },
+      {
+        "color": "Blue",
+        "available": false
+      }
+    ],
+    "total_availability": 3,
+    "description": "A stand-out oversized hoodie reconstructed from a soft cotton fleece jersey derived from previous collections. This avant-basic piece has an asymmetrical cut with a slash opening down the right front, over the shoulder and down the right back."
+  },
+  {
+    "id": "9",
+    "title": "Women's Blazer",
+    "price": 99.99,
+    "rating": 4.8,
+    "number_of_reviews": 210,
+    "new_arrival": false,
+    "big_deal": true,
+    "sex": "female",
+    "categories": [
+      "Clothing",
+      "Formal Wear",
+      "Blazers"
+    ],
+    "comments": [
+      {
+        "user": "user11",
+        "comment": "Perfect for office wear.",
+        "rating": 5,
+        "date": "2024-10-22"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "available": false
+      },
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      }
+    ],
+    "colors": [
+      {
+        "color": "Black",
+        "available": true
+      },
+      {
+        "color": "Navy",
+        "available": true
+      }
+    ],
+    "total_availability": 4,
+    "description": "A stand-out oversized hoodie reconstructed from a soft cotton fleece jersey derived from previous collections. This avant-basic piece has an asymmetrical cut with a slash opening down the right front, over the shoulder and down the right back."
+  },
+  {
+    "id": "10",
+    "title": "Men's Athletic Shorts",
+    "price": 19.99,
+    "rating": 4.2,
+    "number_of_reviews": 75,
+    "new_arrival": true,
+    "big_deal": false,
+    "sex": "male",
+    "categories": [
+      "Clothing",
+      "Activewear",
+      "Shorts"
+    ],
+    "comments": [
+      {
+        "user": "user12",
+        "comment": "Lightweight and breathable.",
+        "rating": 4,
+        "date": "2024-11-09"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "available": false
+      }
+    ],
+    "colors": [
+      {
+        "color": "Grey",
+        "available": true
+      },
+      {
+        "color": "Black",
+        "available": true
+      }
+    ],
+    "total_availability": 5,
+    "description": "A stand-out oversized hoodie reconstructed from a soft cotton fleece jersey derived from previous collections. This avant-basic piece has an asymmetrical cut with a slash opening down the right front, over the shoulder and down the right back."
+  },
+  {
+    "id": "11",
+    "title": "Women's Cropped Top",
+    "price": 29.99,
+    "rating": 4.3,
+    "number_of_reviews": 90,
+    "new_arrival": true,
+    "big_deal": false,
+    "sex": "female",
+    "categories": [
+      "Clothing",
+      "Casual Wear",
+      "Tops"
+    ],
+    "comments": [
+      {
+        "user": "user13",
+        "comment": "Trendy and comfortable.",
+        "rating": 5,
+        "date": "2024-11-12"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": false
+      }
+    ],
+    "colors": [
+      {
+        "color": "Pink",
+        "available": true
+      },
+      {
+        "color": "White",
+        "available": true
+      }
+    ],
+    "total_availability": 5,
+    "description": "A stand-out oversized hoodie reconstructed from a soft cotton fleece jersey derived from previous collections. This avant-basic piece has an asymmetrical cut with a slash opening down the right front, over the shoulder and down the right back."
+  },
+  {
+    "id": "12",
+    "title": "Men's Chinos",
+    "price": 49.99,
+    "rating": 4.5,
+    "number_of_reviews": 125,
+    "new_arrival": false,
+    "big_deal": true,
+    "sex": "male",
+    "categories": [
+      "Clothing",
+      "Casual Wear",
+      "Pants"
+    ],
+    "comments": [
+      {
+        "user": "user14",
+        "comment": "Stylish and comfortable.",
+        "rating": 5,
+        "date": "2024-10-18"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "30",
+        "available": true
+      },
+      {
+        "size": "32",
+        "available": true
+      },
+      {
+        "size": "34",
+        "available": false
+      }
+    ],
+    "colors": [
+      {
+        "color": "Beige",
+        "available": true
+      },
+      {
+        "color": "Navy",
+        "available": true
+      }
+    ],
+    "total_availability": 5,
+    "description": "A stand-out oversized hoodie reconstructed from a soft cotton fleece jersey derived from previous collections. This avant-basic piece has an asymmetrical cut with a slash opening down the right front, over the shoulder and down the right back."
+  },
+  {
+    "id": "13",
+    "title": "Women's Denim Jacket",
+    "price": 69.99,
+    "rating": 4.7,
+    "number_of_reviews": 200,
+    "new_arrival": true,
+    "big_deal": false,
+    "sex": "female",
+    "categories": [
+      "Clothing",
+      "Casual Wear",
+      "Jackets"
+    ],
+    "comments": [
+      {
+        "user": "user15",
+        "comment": "A timeless classic. Fits perfectly!",
+        "rating": 5,
+        "date": "2024-11-14"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": false
+      }
+    ],
+    "colors": [
+      {
+        "color": "Light Blue",
+        "available": true
+      },
+      {
+        "color": "Dark Blue",
+        "available": false
+      }
+    ],
+    "total_availability": 4,
+    "description": "A stand-out oversized hoodie reconstructed from a soft cotton fleece jersey derived from previous collections. This avant-basic piece has an asymmetrical cut with a slash opening down the right front, over the shoulder and down the right back."
+  },
+  {
+    "id": "14",
+    "title": "Men's Cotton Sweatpants",
+    "price": 34.99,
+    "rating": 4.6,
+    "number_of_reviews": 85,
+    "new_arrival": false,
+    "big_deal": true,
+    "sex": "male",
+    "categories": [
+      "Clothing",
+      "Activewear",
+      "Pants"
+    ],
+    "comments": [
+      {
+        "user": "user16",
+        "comment": "Perfect for workouts or lounging.",
+        "rating": 5,
+        "date": "2024-11-09"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": false
+      },
+      {
+        "size": "XL",
+        "available": true
+      }
+    ],
+    "colors": [
+      {
+        "color": "Black",
+        "available": true
+      },
+      {
+        "color": "Grey",
+        "available": true
+      }
+    ],
+    "total_availability": 4,
+    "description": "A stand-out oversized hoodie reconstructed from a soft cotton fleece jersey derived from previous collections. This avant-basic piece has an asymmetrical cut with a slash opening down the right front, over the shoulder and down the right back."
+  },
+  {
+    "id": "15",
+    "title": "Women's Wrap Dress",
+    "price": 59.99,
+    "rating": 4.5,
+    "number_of_reviews": 140,
+    "new_arrival": false,
+    "big_deal": true,
+    "sex": "female",
+    "categories": [
+      "Clothing",
+      "Dresses",
+      "Formal Wear"
+    ],
+    "comments": [
+      {
+        "user": "user17",
+        "comment": "Very flattering and elegant.",
+        "rating": 5,
+        "date": "2024-10-29"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      }
+    ],
+    "colors": [
+      {
+        "color": "Red",
+        "available": true
+      },
+      {
+        "color": "Black",
+        "available": true
+      }
+    ],
+    "total_availability": 6,
+    "description": "A stand-out oversized hoodie reconstructed from a soft cotton fleece jersey derived from previous collections. This avant-basic piece has an asymmetrical cut with a slash opening down the right front, over the shoulder and down the right back."
+  },
+  {
+    "id": "16",
+    "title": "Men's Leather Belt",
+    "price": 24.99,
+    "rating": 4.3,
+    "number_of_reviews": 60,
+    "new_arrival": false,
+    "big_deal": false,
+    "sex": "male",
+    "categories": [
+      "Clothing",
+      "Accessories",
+      "Belts"
+    ],
+    "comments": [
+      {
+        "user": "user18",
+        "comment": "Durable and stylish. Goes with everything!",
+        "rating": 4,
+        "date": "2024-11-05"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "available": false
+      }
+    ],
+    "colors": [
+      {
+        "color": "Brown",
+        "available": true
+      },
+      {
+        "color": "Black",
+        "available": true
+      }
+    ],
+    "total_availability": 4,
+    "description": "A stand-out oversized hoodie reconstructed from a soft cotton fleece jersey derived from previous collections. This avant-basic piece has an asymmetrical cut with a slash opening down the right front, over the shoulder and down the right back."
+  },
+  {
+    "id": "17",
+    "title": "Women's Knit Sweater",
+    "price": 49.99,
+    "rating": 4.8,
+    "number_of_reviews": 175,
+    "new_arrival": true,
+    "big_deal": true,
+    "sex": "female",
+    "categories": [
+      "Clothing",
+      "Winter Wear",
+      "Sweaters"
+    ],
+    "comments": [
+      {
+        "user": "user19",
+        "comment": "Super soft and warm. Perfect for winter.",
+        "rating": 5,
+        "date": "2024-11-15"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      }
+    ],
+    "colors": [
+      {
+        "color": "Beige",
+        "available": true
+      },
+      {
+        "color": "Pink",
+        "available": true
+      }
+    ],
+    "total_availability": 0,
+    "description": "A stand-out oversized hoodie reconstructed from a soft cotton fleece jersey derived from previous collections. This avant-basic piece has an asymmetrical cut with a slash opening down the right front, over the shoulder and down the right back."
+  },
+  {
+    "id": "18",
+    "title": "Men's Wool Scarf",
+    "price": 19.99,
+    "rating": 4.5,
+    "number_of_reviews": 50,
+    "new_arrival": true,
+    "big_deal": false,
+    "sex": "male",
+    "categories": [
+      "Clothing",
+      "Accessories",
+      "Scarves"
+    ],
+    "comments": [
+      {
+        "user": "user20",
+        "comment": "Stylish and warm. A must-have accessory!",
+        "rating": 5,
+        "date": "2024-11-06"
+      }
+    ],
+    "sizes": [],
+    "colors": [
+      {
+        "color": "Grey",
+        "available": true
+      },
+      {
+        "color": "Black",
+        "available": true
+      }
+    ],
+    "total_availability": 2,
+    "description": "A stand-out oversized hoodie reconstructed from a soft cotton fleece jersey derived from previous collections. This avant-basic piece has an asymmetrical cut with a slash opening down the right front, over the shoulder and down the right back."
+  },
+  {
+    "id": "19",
+    "title": "Women's Maxi Skirt",
+    "price": 44.99,
+    "rating": 4.6,
+    "number_of_reviews": 130,
+    "new_arrival": false,
+    "big_deal": true,
+    "sex": "female",
+    "categories": [
+      "Clothing",
+      "Casual Wear",
+      "Skirts"
+    ],
+    "comments": [
+      {
+        "user": "user21",
+        "comment": "Flowy and elegant. Great for summer.",
+        "rating": 5,
+        "date": "2024-10-15"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": false
+      }
+    ],
+    "colors": [
+      {
+        "color": "White",
+        "available": true
+      },
+      {
+        "color": "Blue",
+        "available": false
+      }
+    ],
+    "total_availability": 3,
+    "description": "A stand-out oversized hoodie reconstructed from a soft cotton fleece jersey derived from previous collections. This avant-basic piece has an asymmetrical cut with a slash opening down the right front, over the shoulder and down the right back."
+  },
+  {
+    "id": "20",
+    "title": "Men's Formal Shirt",
+    "price": 54.99,
+    "rating": 4.7,
+    "number_of_reviews": 190,
+    "new_arrival": true,
+    "big_deal": true,
+    "sex": "male",
+    "categories": [
+      "Clothing",
+      "Formal Wear",
+      "Shirts"
+    ],
+    "comments": [
+      {
+        "user": "user22",
+        "comment": "Fits perfectly. Looks professional.",
+        "rating": 5,
+        "date": "2024-11-12"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "available": true
+      }
+    ],
+    "colors": [
+      {
+        "color": "White",
+        "available": true
+      },
+      {
+        "color": "Grey",
+        "available": true
+      }
+    ],
+    "total_availability": 6,
+    "description": "A stand-out oversized hoodie reconstructed from a soft cotton fleece jersey derived from previous collections. This avant-basic piece has an asymmetrical cut with a slash opening down the right front, over the shoulder and down the right back."
+  },
+  {
+    "id": "21",
+    "title": "Women's Wide-Leg Pants",
+    "price": 39.99,
+    "rating": 4.5,
+    "number_of_reviews": 110,
+    "new_arrival": true,
+    "big_deal": false,
+    "sex": "female",
+    "categories": [
+      "Clothing",
+      "Casual Wear",
+      "Pants"
+    ],
+    "comments": [
+      {
+        "user": "user23",
+        "comment": "Very comfortable and trendy.",
+        "rating": 4,
+        "date": "2024-11-07"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": false
+      }
+    ],
+    "colors": [
+      {
+        "color": "Black",
+        "available": true
+      },
+      {
+        "color": "Beige",
+        "available": false
+      }
+    ],
+    "total_availability": 3,
+    "description": "A stand-out oversized hoodie reconstructed from a soft cotton fleece jersey derived from previous collections. This avant-basic piece has an asymmetrical cut with a slash opening down the right front, over the shoulder and down the right back."
+  },
+  {
+    "id": "22",
+    "title": "Men's Hooded Jacket",
+    "price": 79.99,
+    "rating": 4.8,
+    "number_of_reviews": 220,
+    "new_arrival": false,
+    "big_deal": true,
+    "sex": "male",
+    "categories": [
+      "Clothing",
+      "Winter Wear",
+      "Jackets"
+    ],
+    "comments": [
+      {
+        "user": "user24",
+        "comment": "Warm and stylish. Perfect for winter.",
+        "rating": 5,
+        "date": "2024-11-03"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "available": true
+      }
+    ],
+    "colors": [
+      {
+        "color": "Black",
+        "available": true
+      },
+      {
+        "color": "Grey",
+        "available": true
+      }
+    ],
+    "total_availability": 6,
+    "description": "A stand-out oversized hoodie reconstructed from a soft cotton fleece jersey derived from previous collections. This avant-basic piece has an asymmetrical cut with a slash opening down the right front, over the shoulder and down the right back."
+  },
+  {
+    "id": "23",
+    "title": "Women's Floral Print Dress",
+    "price": 49.99,
+    "rating": 4.4,
+    "number_of_reviews": 145,
+    "new_arrival": true,
+    "big_deal": false,
+    "sex": "female",
+    "categories": [
+      "Clothing",
+      "Dresses",
+      "Casual Wear"
+    ],
+    "comments": [
+      {
+        "user": "user25",
+        "comment": "Perfect for spring. Lightweight and breezy.",
+        "rating": 4,
+        "date": "2024-11-13"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": false
+      },
+      {
+        "size": "L",
+        "available": true
+      }
+    ],
+    "colors": [
+      {
+        "color": "White",
+        "available": true
+      },
+      {
+        "color": "Yellow",
+        "available": true
+      }
+    ],
+    "total_availability": 0,
+    "description": "A stand-out oversized hoodie reconstructed from a soft cotton fleece jersey derived from previous collections. This avant-basic piece has an asymmetrical cut with a slash opening down the right front, over the shoulder and down the right back."
+  },
+  {
+    "id": "24",
+    "title": "Men's Casual Shorts",
+    "price": 29.99,
+    "rating": 4.3,
+    "number_of_reviews": 95,
+    "new_arrival": false,
+    "big_deal": true,
+    "sex": "male",
+    "categories": [
+      "Clothing",
+      "Casual Wear",
+      "Shorts"
+    ],
+    "comments": [
+      {
+        "user": "user26",
+        "comment": "Comfortable and great for daily wear.",
+        "rating": 4,
+        "date": "2024-10-30"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "available": false
+      }
+    ],
+    "colors": [
+      {
+        "color": "Khaki",
+        "available": true
+      },
+      {
+        "color": "Navy",
+        "available": true
+      }
+    ],
+    "total_availability": 4,
+    "description": "A stand-out oversized hoodie reconstructed from a soft cotton fleece jersey derived from previous collections. This avant-basic piece has an asymmetrical cut with a slash opening down the right front, over the shoulder and down the right back."
+  },
+  {
+    "id": "25",
+    "title": "Women's Puffer Jacket",
+    "price": 99.99,
+    "rating": 4.9,
+    "number_of_reviews": 240,
+    "new_arrival": true,
+    "big_deal": true,
+    "sex": "female",
+    "categories": [
+      "Clothing",
+      "Winter Wear",
+      "Jackets"
+    ],
+    "comments": [
+      {
+        "user": "user27",
+        "comment": "Very warm and lightweight. Great for cold weather!",
+        "rating": 5,
+        "date": "2024-11-16"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": false
+      }
+    ],
+    "colors": [
+      {
+        "color": "Black",
+        "available": true
+      },
+      {
+        "color": "Red",
+        "available": true
+      }
+    ],
+    "total_availability": 4,
+    "description": "A stand-out oversized hoodie reconstructed from a soft cotton fleece jersey derived from previous collections. This avant-basic piece has an asymmetrical cut with a slash opening down the right front, over the shoulder and down the right back."
+  },
+  {
+    "id": "26",
+    "title": "Men's Graphic T-Shirt",
+    "price": 24.99,
+    "rating": 4.5,
+    "number_of_reviews": 80,
+    "new_arrival": true,
+    "big_deal": false,
+    "sex": "male",
+    "categories": [
+      "Clothing",
+      "Casual Wear",
+      "T-Shirts"
+    ],
+    "comments": [
+      {
+        "user": "user28",
+        "comment": "Cool design and comfortable material.",
+        "rating": 4,
+        "date": "2024-11-10"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "available": false
+      }
+    ],
+    "colors": [
+      {
+        "color": "Black",
+        "available": true
+      },
+      {
+        "color": "White",
+        "available": true
+      }
+    ],
+    "total_availability": 4,
+    "description": "A stand-out oversized hoodie reconstructed from a soft cotton fleece jersey derived from previous collections. This avant-basic piece has an asymmetrical cut with a slash opening down the right front, over the shoulder and down the right back."
+  },
+  {
+    "id": "27",
+    "title": "Women's Silk Scarf",
+    "price": 19.99,
+    "rating": 4.6,
+    "number_of_reviews": 65,
+    "new_arrival": false,
+    "big_deal": false,
+    "sex": "female",
+    "categories": [
+      "Clothing",
+      "Accessories",
+      "Scarves"
+    ],
+    "comments": [
+      {
+        "user": "user29",
+        "comment": "Soft and luxurious feel. Adds a touch of elegance.",
+        "rating": 5,
+        "date": "2024-11-08"
+      }
+    ],
+    "sizes": [],
+    "colors": [
+      {
+        "color": "Blue",
+        "available": true
+      },
+      {
+        "color": "Pink",
+        "available": true
+      }
+    ],
+    "total_availability": 2,
+    "description": "A stand-out oversized hoodie reconstructed from a soft cotton fleece jersey derived from previous collections. This avant-basic piece has an asymmetrical cut with a slash opening down the right front, over the shoulder and down the right back."
+  },
+  {
+    "id": "28",
+    "title": "Men's Cargo Pants",
+    "price": 49.99,
+    "rating": 4.4,
+    "number_of_reviews": 120,
+    "new_arrival": true,
+    "big_deal": true,
+    "sex": "male",
+    "categories": [
+      "Clothing",
+      "Casual Wear",
+      "Pants"
+    ],
+    "comments": [
+      {
+        "user": "user30",
+        "comment": "Very functional with plenty of pockets.",
+        "rating": 4,
+        "date": "2024-11-09"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "30",
+        "available": true
+      },
+      {
+        "size": "32",
+        "available": true
+      },
+      {
+        "size": "34",
+        "available": false
+      }
+    ],
+    "colors": [
+      {
+        "color": "Green",
+        "available": true
+      },
+      {
+        "color": "Khaki",
+        "available": true
+      }
+    ],
+    "total_availability": 4,
+    "description": "A stand-out oversized hoodie reconstructed from a soft cotton fleece jersey derived from previous collections. This avant-basic piece has an asymmetrical cut with a slash opening down the right front, over the shoulder and down the right back."
+  },
+  {
+    "id": "29",
+    "title": "Women's Tank Top",
+    "price": 19.99,
+    "rating": 4.3,
+    "number_of_reviews": 70,
+    "new_arrival": false,
+    "big_deal": false,
+    "sex": "female",
+    "categories": [
+      "Clothing",
+      "Activewear",
+      "Tops"
+    ],
+    "comments": [
+      {
+        "user": "user31",
+        "comment": "Great for workouts. Breathable fabric.",
+        "rating": 4,
+        "date": "2024-11-01"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": false
+      },
+      {
+        "size": "L",
+        "available": true
+      }
+    ],
+    "colors": [
+      {
+        "color": "White",
+        "available": true
+      },
+      {
+        "color": "Black",
+        "available": true
+      }
+    ],
+    "total_availability": 3,
+    "description": "A stand-out oversized hoodie reconstructed from a soft cotton fleece jersey derived from previous collections. This avant-basic piece has an asymmetrical cut with a slash opening down the right front, over the shoulder and down the right back."
+  },
+  {
+    "id": "30",
+    "title": "Men's Quilted Vest",
+    "price": 59.99,
+    "rating": 4.7,
+    "number_of_reviews": 140,
+    "new_arrival": true,
+    "big_deal": true,
+    "sex": "male",
+    "categories": [
+      "Clothing",
+      "Winter Wear",
+      "Vests"
+    ],
+    "comments": [
+      {
+        "user": "user32",
+        "comment": "Lightweight yet warm. Ideal for layering.",
+        "rating": 5,
+        "date": "2024-11-14"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "available": true
+      }
+    ],
+    "colors": [
+      {
+        "color": "Navy",
+        "available": true
+      },
+      {
+        "color": "Grey",
+        "available": true
+      }
+    ],
+    "total_availability": 6,
+    "description": "A stand-out oversized hoodie reconstructed from a soft cotton fleece jersey derived from previous collections. This avant-basic piece has an asymmetrical cut with a slash opening down the right front, over the shoulder and down the right back."
+  }
+]
